@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the royal law of Jehovah, (Lord Paramount of heaven and earth), commonly termed the moral lavv, or, law of manners, (in relation to our behaviour both towards God and our neighbour) or otherwise, the Decalogue, or Ten Commandments; with the statutes and judgements appertaining thereunto. In opposition ot the present laws of our forefathers, so called and magnified by several persons in this Commonwealth, and particularly by Lieut. Col. John Lilburne, and Capt. Robt. Norwood. Humbly presented to the view and serious consideration of the honorable the committee appointed for the drawing up of a new systeme or body of law, for the use of the Commonwealth; / by John Spittlehouse.</title>
+            <author>Spittlehouse, John.</author>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93703</idno><idno type="EEBO-CITATION">45504527</idno>
+  <idno type="VID">171842</idno>
+  <idno type="EEBO-PROQUEST">2240870071</idno>
+  
+            <idno type="STC">Wing S5015A</idno>
+            <idno type="STC">ESTC R184542</idno>
+            <idno type="OCLC">45504527</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2594:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the royal law of Jehovah, (Lord Paramount of heaven and earth), commonly termed the moral lavv, or, law of manners, (in relation to our behaviour both towards God and our neighbour) or otherwise, the Decalogue, or Ten Commandments; with the statutes and judgements appertaining thereunto. In opposition ot the present laws of our forefathers, so called and magnified by several persons in this Commonwealth, and particularly by Lieut. Col. John Lilburne, and Capt. Robt. Norwood. Humbly presented to the view and serious consideration of the honorable the committee appointed for the drawing up of a new systeme or body of law, for the use of the Commonwealth; / by John Spittlehouse.</title>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>by J.C.,</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilburne, John, 1614?-1657.</term>
+               <term type="personal_name">Norwood, Robert, --  Captain.</term>
+               <term type="topical_term">Christianity and law --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171842:1"/>
+            <p>A VINDICATION OF THE Royal Law of JEHOVAH, (Lord Paramount of Heaven and Earth) <hi>COMMONLY TERMED</hi> The Moral Lavv, OR, Law of Manners, (In relation to our behaviour both towards God and our Neighbour) Or otherwise, The DECALOGUE, OR, ten Commandments; With the Statutes and Judgements appertaining thereunto.</p>
+            <p>In opposition to the present Laws of our Forefathers, so called and magnified by several persons in this Commonwealth, and particularly by Lieut, Col. <hi>John Lilburne,</hi> and Capt. <hi>Robert Norwood.</hi>
+            </p>
+            <p>Humbly presented to the view and serious consideration of the honorable the Committee appointed for the drawing up of a new Systeme or body of Law, for the use of the Commonwealth;</p>
+            <p>By <hi>John Spittlehouse.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Ps. 119.126.</hi>
+               </bibl>
+               <p>It is time for thee, Lord, to work: for they have made void thy Law</p>
+            </q>
+            <p>Printed at London, by <hi>J. C.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:171842:2"/>
+            <pb n="1" facs="tcp:171842:2"/>
+            <head>A VINDICATION of the Royal Law of JEHOVAH.</head>
+            <head type="sub">Humbly presented to the view and se<g ref="char:EOLhyphen"/>rious consideration of the honorable, the Committee, &amp;c.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is the saying of <hi>Solomon</hi> the wise, that <hi>A word fitly spoken is like Apples of Gold, in pictures of Silver,</hi> Prov. 25.11. and therefore having so meet an occasion, I do presume to render this present Paper to your view, hoping it may be advantagious to the present designe you have in hand. In my first Addresses to you, <hi>(as Members of the Parliament)</hi> I told you, that <hi>the right beginning of an action, did extend to the half accomplish<g ref="char:EOLhyphen"/>ment thereof:</hi> and if so, then it doth very much concerne you, in that weighty matter put upon you, and undertaken by you: for o<g ref="char:EOLhyphen"/>therwise you will but <hi>wash the Black Moore,</hi> and so act the <hi>labour in vaine.</hi>
+            </p>
+            <pb n="2" facs="tcp:171842:3"/>
+            <p> It will therefore be requisite for you in the first place seriously to consider <hi>whose worke you are about,</hi> viz. whether to advance Je<g ref="char:EOLhyphen"/>sus Christ, or your selves? If Jesus Christ, then whether or no you own him to be your alone <hi>Lord God King, Law giver, Judge, and Saviour?</hi> according to that of <hi>Isaiah</hi> 33.22. for this know, <hi>his servants you are, whom you most advance:</hi> for it is not your disclaiming of a King to governe this Nation, that will gaine you any repute either with Jesus Christ, or his people, so long as you support the <hi>Kingly Laws of the Nation, by which they governed,</hi> for in so doing, you onely lop off an <hi>Hydra's head,</hi> that an hundred more may grow up in stead thereof.</p>
+            <p>And therefore if your designe be to advance <hi>Jesus Christ,</hi> in the Throne of <hi>Charles Stuart and his predecessors,</hi> you ought to consider whether it be not most conducing to reason that the Laws of Jesus Christ be made use of by you, rather then his Laws whom you have dis-throned, or any other of his predecessors, the former Kings of this Nation, they being of the same lineage with those in 1 <hi>Sam.</hi> 8.5. <hi>viz. according to all the Nations,</hi> a thing detestable to <hi>Samuel</hi> the Prophet of God, <hi>ver.</hi> 6. as also to God himself <hi>ver.</hi> 7. yea an absolute rejection of God to be their King, as in <hi>chap.</hi> 10.19. whose idolatrous example I hope you will not follow.</p>
+            <p>And if so, then without controversie you are obliged to own the Laws of Jehovah as in the Title page, <hi>viz.</hi> the same which the Lord, God, King Law-giver, Judge and deliverer of Israel gave unto them, and consequently <hi>to all such as own him to be their God</hi> &amp;c. it being the royall Law of that one Law-maker, who is onely able to save and to destroy, <hi>Jam.</hi> 4.12.</p>
+            <p>But inasmuch as I understand, that some of you say by way of objection, <hi>That a State may make such Laws to rule by as they think meet,</hi> which being agreeable to that of <hi>Lieutenant Colonell John Lisburne</hi> in his book intituled, <hi>The upright mans Vindica<g ref="char:EOLhyphen"/>tion,</hi> in his third and most approved way of administration of go<g ref="char:EOLhyphen"/>vernment, which saith he is <hi>by a Nation, or company of peoples mutuall agreement, or contract, or long setled, well approved of and received customes, there being not</hi> (saith he) <hi>in the least, ei<g ref="char:EOLhyphen"/>ther in the old or new testament any prescript, forme, or civil politick government left by God, to be binding and observed by all Nations, in all ages and times. Men being born rational
+<pb n="3" facs="tcp:171842:3"/>creatures, and are therefore left by God to the choice of their ci<g ref="char:EOLhyphen"/>vill government.</hi>
+            </p>
+            <p>Now to the end I may give answer to these precedent assertions, I shall contract them into these following particulars, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>That God hath left all rationall creatures to make their own Laws in point of civil government.</hi>
+               </item>
+               <item>2. <hi>That the best way of making such Laws, is by a mutual agreement or contract, or long setled, well approved of, and re<g ref="char:EOLhyphen"/>ceived custome.</hi>
+               </item>
+               <item>3. <hi>That there is not in the least, any prescript form or ci<g ref="char:EOLhyphen"/>vil earthly politick government left by God, to be binding and ob<g ref="char:EOLhyphen"/>served by all Nations.</hi>
+               </item>
+            </list>
+            <p>And first, of the first.</p>
+            <p>
+               <hi>Resp.</hi> If so, then certainly the peculiar people of God, <hi>viz. The Commonwealth of Israel,</hi> would have been left by God to the same liberty: (for certainly they were <hi>as rationall creatures, as o<g ref="char:EOLhyphen"/>ther Nations</hi>) which that he did not, is clearly manifest to all that acknowledge the Scriptures; yea it is also clear that <hi>Moses</hi> did im<g ref="char:EOLhyphen"/>pute it to the Israelites, as a great degree of wisdom and understand<g ref="char:EOLhyphen"/>ing in them in cleaving to that Law so given them by God, rather then with the rest of the Nations, to have erected their own inventi<g ref="char:EOLhyphen"/>ons: as is clear from <hi>Deut.</hi> 4. when <hi>Moses</hi> speaking of the excel<g ref="char:EOLhyphen"/>lency of that royall Law of the Lord Jehovah, in comparison of the Laws erected by the corrupt reason of the Nations, or Heathens, challengeth all the Nations of the World to parallell it, saying,</p>
+            <p>
+               <hi>Behold, I have taught you statutes and judgements, even as the Lord my God com us anded me,</hi> &amp;c. <hi>keep therefore and do them, for this is your wisdom and understanding in the sight of the Na<g ref="char:EOLhyphen"/>tions, which shall hear all those statutes, and say, Surely this great Nation, is a wise and understanding people: for what Na<g ref="char:EOLhyphen"/>tion is there so great, that hath statutes and judgements so righ<g ref="char:EOLhyphen"/>teous, as all the Law I have set before you this day? which sta<g ref="char:EOLhyphen"/>tutes, that they are meant of the said royal Law, will also ap<g ref="char:EOLhyphen"/>pear by the following verses,</hi> viz.</p>
+            <p>
+               <hi>Remember,</hi> &amp;c. <hi>especially the day that thou stoodest before the Lord thy God in</hi> Horeb, <hi>when the Lord said unto me Gather me the People together, and I will make them hear my word, that they may learn to fear me all the daies that they live upon
+<pb n="4" facs="tcp:171842:4"/>the earth, and that they may teach them their Children. And ye</hi> (saith Moses) <hi>came neer and stood under the mountaine, and the mountaine burned with fire unto the midst of Heaven, with darkness, Clouds, and thick darkness: and the Lord spake unto you out of the midst of the fire, and he delivered unto you HIS COVENANT, which he commanded you to perform, even the</hi> —<hi>Ten Commandments,</hi> — <hi>and he wrote them upon two Tables of Stone.</hi> As also in chap. 5. so that it is clearly evi<g ref="char:EOLhyphen"/>dent, that God did not leave <hi>all rational creatures</hi> to the liberty of <hi>making their own Laws,</hi> in not leaving his own peculiar peo<g ref="char:EOLhyphen"/>ple the <hi>Jews,</hi> who are termed <hi>his peculiar people</hi> upon no other account, then upon their receiving and becoming obedient to the aforesaid Laws; and if so, <hi>then can any Nation in the world claime the like priviledge, upon any other account, in point of civil government?</hi>
+            </p>
+            <p n="2">2. Againe, as to the second particular, I likewise answer and say, That the said peculiar people of God was not in the least permitted by God to make any Laws by any such <hi>mutual consent or agree<g ref="char:EOLhyphen"/>ment, or to imitate any long setled, or well approved of customs, which any other Nations whatsover practised;</hi> but contrarywise was strictly tyed unto the <hi>Letter of that Law</hi> so made by God himself, and that without either <hi>addition or detraction.</hi>
+            </p>
+            <p>Yea it is also clear, that Jesus Christ himself (under the Gospel-dispensation) inveigheth against such high presumptions of the Scribes and Pharisees, saying, that they did worship him in vain (as God) <hi>in that they taught for doctrines the commandments of men: for</hi> (saith he) <hi>laying aside the Commandments of God, ye hold the [traditions] of men,</hi> Mat. 7.7.</p>
+            <p>Again, (saith he) <hi>Full well ye reject the Commandments of God, that ye may keep your own [traditions:]</hi> as in example, <hi>for Moses</hi> (saith he) <hi>said, Honour thy Father, and thy Mo<g ref="char:EOLhyphen"/>ther; and whoso curseth his Father or Mother, let him die the death.</hi>
+            </p>
+            <p>
+               <hi>But ye say, If a man say to his Father or Mother it is Corban, that is to say, a gift;</hi> &amp;c. <hi>he shall be free, and ye suffer him no more to do ought for his Father or Mother, making the word of God of none effect by your [traditions,]</hi> &amp;c.</p>
+            <p>And are they not then alike guilty, whosoever they are, that either
+<pb n="5" facs="tcp:171842:4"/>have or do assume <hi>the like authority</hi> unto themselves, <hi>by addding or detracting from the said royall Law, or the Statutes and Judge<g ref="char:EOLhyphen"/>ments appertaining thereunto?</hi> seeing it is the irrevocable Law of the God of all the earth, as also in regard of the dreadfull judge<g ref="char:EOLhyphen"/>ments which Jehovah hath denounced against such as shall so violate the same, <hi>vid. Deut.</hi> 28.14, 15, &amp;c. and <hi>Levit.</hi> 16.14, 15. &amp;c. which doubtless all Law-makers are guilty of, that vary in the least from the bare letter, as recorded in the Scripture: whether in re<g ref="char:EOLhyphen"/>lation to the command, or statute or judgement appertaining there<g ref="char:EOLhyphen"/>unto.</p>
+            <p n="3">3. Again, as to the last branch of the assertion, I answer, That the said Decalogue, or Law of <hi>Ten Commandments</hi> &amp;c. with the statutes and judgements appertaining thereunto (as in Mr. <hi>Braynes</hi> book lately published, and titled, <hi>The new Earth,</hi> &amp;c. is somewhat largely treated of; and would be more, if encouraged) are, and ought to be, the <hi>absolute binding form of government to all Nations upon the face of the earth,</hi> and so consequently to this <hi>Common<g ref="char:EOLhyphen"/>wealth of England,</hi> and that for these following reasons, <hi>viz.</hi>
+            </p>
+            <div n="1" type="reason">
+               <head>Reason. 1.</head>
+               <p>
+                  <hi>He that is Lord God, King, and Judge of all Nations upon the whole face of the Earth, his Laws ought to be the Laws of all the Nations upon the face of the Earth.</hi>
+               </p>
+               <p>
+                  <hi>But Jehovah is Lord God, King, and Judge of all the Nati<g ref="char:EOLhyphen"/>ons upon the face of the earth.</hi>
+               </p>
+               <p>
+                  <hi>Therefore his Laws ought to be the Laws of all the Nations upon the face of the Earth.</hi>
+               </p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>That Jehovah is Lord as aforesaid, I shall prove by these follow<g ref="char:EOLhyphen"/>ing Scriptures, <hi>viz.</hi>
+               </p>
+               <p>Psal. 24.1. <hi>The Earth is the Lords with the fulness thereof, the world and they that dwell therein, with</hi> Deut. 10.14. and Psa. 50.12. 1 Cor. 10.26.</p>
+               <p n="2">2. That Jehovah is <hi>God</hi> of all Nations upon the face of the Earth, <hi>vid. Rom.</hi> 3.29. <hi>Is he the God of the Jews, is he not also of the Gentiles? YEA of the Gentiles also.</hi>
+               </p>
+               <p n="3">3. That Jehovah is <hi>King</hi> of all the Nations of the Earth, <hi>vid. Psal.</hi> 97.1. <hi>The Lord raigneth let the Earth rejoyce; let the multitudes of the Isles be glad thereof,</hi> ver. 9. <hi>for thou Lord art
+<pb n="6" facs="tcp:171842:5"/>high above all the earth, thou art exalted far above all Gods.</hi> And Psal. 96.10. <hi>Say amongst the Heathen, The Lord raigneth.</hi> Psal. 22.27, 28. <hi>All the ends of the Earth shall remember and turn unto the Lord, &amp; all the kindreds of the Nations shall wor<g ref="char:EOLhyphen"/>ship before thee for the Kingdom is the Lords and he is the gover<g ref="char:EOLhyphen"/>nour amongst the Nations.</hi> Again, Psal. 7.2, 5. <hi>They shall fear thee so long as the Sun and Moon endureth, throughout all generati<g ref="char:EOLhyphen"/>ons,</hi> ver. 8. <hi>He shall have dominion also from Sea to Sea, and from the River unto the ends of the Earth.</hi> ver. 10. <hi>All Kings shall fall down before him, all Nations shall do him service.</hi> with Zeph. 2.11. <hi>The Lord will be terrible unto them, he will famish all the Gods of the Earth, and men shall worship him e<g ref="char:EOLhyphen"/>very one from his place, even all the Isles of the Heathen.</hi>
+               </p>
+               <p n="4">4. That Jehovah is <hi>Judge</hi> of all the Nations upon the face of the Earth, <hi>vid. Psal.</hi> 94.1, 2. <hi>O God to whom vengance belongeth, O God to whom vengeance belongeth, shew thy self. Lift up thy self, thou judg of the Earth, and render a reward to the proud,</hi> with ver. 10.15, 20, 23. with Psal. 75.6, 7. <hi>For promotion neither cometh from the East nor from the West, nor from the South but God is the judge, he pulleth down one, be setteth up another,</hi> &amp;c. and Heb. 12.23. <hi>To God the judge of all.</hi>
+               </p>
+            </div>
+            <div n="2" type="reason">
+               <head>Reason 2,</head>
+               <p>He that is not onely <hi>judge, but also the righteous judge</hi> of all the Nations of the Earth, his Law (by which he so judgeth) must needs be a righteous Law.</p>
+               <p>But Jehovah is not onely <hi>judge, but also the righteous judge</hi> of all the Nations of the Earth;</p>
+               <p>Therefore his Law (<hi>viz.</hi> the royall Law) is the righteous Law, to all the Nations of the Earth.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>The Jehovah is a righteous judge to all Naions, <hi>&amp;c. Gen.</hi> 18.25. <hi>Shall not the judge of all the Earth do right?</hi> Psal. 6.8. <hi>He shall judge the world in righteousness.</hi>
+               </p>
+               <p>And Psal, 67, 4. <hi>For thou shalt judge the people righteously, and govern the Nations upon the Earth.</hi> (with the whole Psalm) and Psal. 96.13. <hi>For he cometh, for he cometh to judge the Earth: he shall judge the World with righteousness, and the peo<g ref="char:EOLhyphen"/>ple with truth;</hi> with Psal. 98.9. Jer. 11.20 <hi>O Lord of hosts
+<pb n="7" facs="tcp:171842:5"/>that judgeth righteously,</hi> &amp;c. and Psal. 82.8. <hi>Arise O Lord and judge the Earth, for thou shalt inherit all Nations.</hi> vid. Isa. 2.4. and 42.1, 4.</p>
+            </div>
+            <div n="3" type="reason">
+               <head>
+                  <hi>Reason</hi> 3.</head>
+               <p>He that is the proper Law-giver to all the Nations, upon the face of the Earth, his Laws are the proper Laws of all the Earth.</p>
+               <p>But Jehovah is the proper Law-giver to all the Nations, upon the face of the Earth.</p>
+               <p>
+                  <hi>Ergo,</hi> his Laws ought to be the Laws of all the Earth.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>That Jehovah is the proper <hi>Law-giver</hi> &amp;c. I prove thus, <hi>viz.</hi>
+               </p>
+               <p>He that is the onely Law-giver, is the proper Law-giver.</p>
+               <p>But Jehovah is the onely Law-giver, <hi>Jam.</hi> 4.12.</p>
+               <p>Therefore the proper Law-giver, <hi>&amp;c.</hi>
+               </p>
+               <p>Again, Rom. 3, 29. &amp;c. <hi>Is he a God of the Jews onely, is he not of the Gentiles? Yea, of the Gentiles also: seeing it is one God that justifieth the circumcision by faith, and the uncir<g ref="char:EOLhyphen"/>cumcision through faith; do we therefore</hi> (saith he) <hi>make void the Law?</hi> (either to the circumcised or uncircumcised, to Jew or Gentile) <hi>God forbid: yea, we establish the Law.</hi> (viz. both as to Jew and Gentile.) And this he further confirmeth, ver. 19. where he saith, <hi>Now we know whatsoever the Law saith, it saith to them that are under the Law,</hi> (mark) <hi>that every mouth may be stopped, and all the world become guilty before God.</hi> which clearly argueth that God hath concluded all Nations to be obedient to his Laws, as aforesaid.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>
+                  <hi>Reason</hi> 4.</head>
+               <p>That Law which is the Law of Nature, ought to be the Law of all naturall men.</p>
+               <p>But the royall Law of Jehovah, is the Law of Nature.</p>
+               <p>Therefore the royall Law of Jehovah, ought to be the Law of all natural men.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>Rom. 2.14. <hi>For the Gentiles which have not the law, do by na<g ref="char:EOLhyphen"/>ture the things contained in the law: these having not the law, are a law unto themselves, which sheweth the works</hi> (or dictates) <hi>of the Law written in their hearts, their consciences also bearing witness,</hi> (through the influence thereof) <hi>and their thoughts in the
+<pb n="8" facs="tcp:171842:6"/>mean while accusing or excusing one another,</hi> &amp;c.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>
+                  <hi>Reason</hi> 5.</head>
+               <p>That Law which was never yet abrogated, is yet in force.</p>
+               <p>But the royall Law of Jehovah was never yet abrogated.</p>
+               <p>Therefore the royall Law of Jehovah is yet in force.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>Mat. 5.17. Where we have the testimony of Jesus Christ him<g ref="char:EOLhyphen"/>self affirming, <hi>That he came not to destroy the Law or the Pro<g ref="char:EOLhyphen"/>phets:</hi> but contrarywise, that he came <hi>to fulfill them,</hi> viz. by his not onely living positively according to the literall contents thereof: but also according to the spirituality thereof, as by abstaining from the very thoughts of evill. As in the insuing verses of that chapter: which spirituall obedience did not in the least diminish or destroy the literall.</p>
+               <p>Again, foreseeing as it were the obstructers of his Laws in these our daies, he further avoweth saying, <hi>Whosoever therefore, shall break one of these least Commandments and teach men so, shall be called least in the Kingdom of Heaven</hi> &amp;c.</p>
+            </div>
+            <div n="6" type="reason">
+               <head>
+                  <hi>Reason</hi> 6.</head>
+               <p>That Law which the Prophets have foretold, shall be magnifi<g ref="char:EOLhyphen"/>ed by all Nations upon the face of the Earth, that Law ought to be the Law of all the Nations of the Earth.</p>
+               <p>But the Prophets have foretold that the royall Law of Jehovah shall be so magnified.</p>
+               <p>Therefore the royall Law of Jehovah ought to be the Law of all the Nations upon the face of the Farth.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>Isa. 42.21. <hi>&amp;c. The Lord is well pleased for his righteous<g ref="char:EOLhyphen"/>ness sake: he will magnifie the Law and make it honourable.</hi> and 51.4. where the Lord Jehovah by his Prophet comforteth his people in the latter daies: telling them, <hi>That the Lord would comfort</hi> Zion, <hi>and all her waste places: and that he will make her Wilderness like</hi> Eden, <hi>and her Desart like the Garden of the Lord, and that joy and gladness shall be found therein;</hi> (there<g ref="char:EOLhyphen"/>fore saith he) <hi>hearken unto me my people, and give eare unto me O my Nation: for</hi> a Law <hi>shall proceed from me, and I will make my judgement to rest for a light to the People, my righ<g ref="char:EOLhyphen"/>teousness is neer, and my salvation is gone forth, and my armes
+<pb n="9" facs="tcp:171842:6"/>shall judge the people, and the Isles shall wait upon me, and on my arm shall they trust.</hi>
+               </p>
+            </div>
+            <div n="7" type="reason">
+               <head>
+                  <hi>Reason</hi> 7.</head>
+               <p>That Law, at whose appearance the civil and ecclesiastical Laws, or inventions, or traditions of Men, shall pass away like smoake, that Law ought chiefly to be imbraced by all Na<g ref="char:EOLhyphen"/>tions.</p>
+               <p>But the royall Law of the great Jehovah, shall accomplish, as aforesaid.</p>
+               <p>Therefore the royall Law of the great Jehovah, ought chiefly to be imbraced by all Nations.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>
+                  <hi>Isa.</hi> 51.6, &amp;c. Where the Lord Jehovah inviteth his people to see the great ruine and havocke that he will make amongst the Laws of men, as aforesaid: when his Law cometh to be established upon the face of the Earth <hi>viz.</hi> (at the approach of the Monarchical King<g ref="char:EOLhyphen"/>dom of Jesus Christ) saying,</p>
+               <p>
+                  <hi>Lift up your eyes to the Heavens look upon the Earth beneath: for the Heavens shall vanish away like smoak, and the Earth shall wax old like a garment, and they that dwell therein</hi> (viz. the ec<g ref="char:EOLhyphen"/>clesiastical and civil Officers appertaining thereunto) <hi>shall dy in like manner,</hi> (viz. vanish away by degrees) as Papacy, Prelacy, and Presbytery, with their officiates have hitherto done in this Nation, as Cardinals, Abbots, Monkes, Fryers, Jesuites: as also Arch Bishops, Bishops, Deans, Chapters, <hi>&amp;c.</hi> with the Presbyterial Classes or Synods, <hi>(as in point of the heaven afore mentioned.)</hi> As also the Kingly, and Lordly powers of this Nation, in point of the Earth afore mentioned or of civil government, as also the havocke that hath been, and now is a making therein; untill both of them shall be utterly consumed, according to that of 2 <hi>Pet.</hi> 3.10. where speaking of the day of the Lord, or Monarchical Kingdom of Jesus Christ, he saith <hi>That it shall come like a Theife in the night,</hi> (viz. secretly) <hi>in the which the Heavens shall pass away with a great noise, and the Elements shall melt with fervent heat, and the Earth also, and the works that are therein, shall be burnt up,</hi> &amp;c. unto which <hi>Rev.</hi> 21.1. hath allusion, where <hi>John</hi> saith, <hi>I saw a new Heaven and a new Earth: for the first Heaven, and the first Earth</hi> (viz. out of which the Dragon and the Beast proceed<g ref="char:EOLhyphen"/>ed
+<pb n="10" facs="tcp:171842:7"/>as in <hi>Rev.</hi> 12.3, 4, <hi>&amp;c,</hi> and 16. with chap. 13.) <hi>were done away, and there was no more Sea.</hi> viz. any relique of the Romish Clergy whatsoever, no not the Independant Rantizer and Tythe<g ref="char:EOLhyphen"/>monger.</p>
+            </div>
+            <div n="8" type="reason">
+               <head>
+                  <hi>Reason</hi> 8.</head>
+               <p>That Law which Jesus Christ and his Apostles preached obedi<g ref="char:EOLhyphen"/>ence unto, as to obtaine eternall life, that Law ought onely to be obeyed.</p>
+               <p>But Jesus Christ and his Apostles preached obedience to the roy<g ref="char:EOLhyphen"/>all Law of Jehovah, to the aforesaid attainment.</p>
+               <p>Therefore the royall Law of Jehovah, ought only to be obeyed.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>Mat. 19.16. <hi>And behold one came unto him,</hi> (viz. Jesus, as in ver. 14.) <hi>saying, Good Master, what good thing shall I do, that I may have</hi> eternal life? <hi>And he</hi> (viz. Jesus) <hi>said unto him, Why callest thou me good?</hi> &amp;c. <hi>but if thou wilt enter into life, Keep the Commandments. He</hi> (viz. the young man) <hi>said, Which? Je<g ref="char:EOLhyphen"/>sus said, Thou shalt do no murder, Thou shalt not commit adul<g ref="char:EOLhyphen"/>tery, Thou shalt not steal, Thou shalt not bear false witness, Ho<g ref="char:EOLhyphen"/>nour thy Father and thy Mother, And thou shalt love thy neigh<g ref="char:EOLhyphen"/>bour as thy self,</hi> &amp;c. and Joh. 14.15. <hi>If ye love me keep my Commandments; and I will pray the Father, and he shall give you another comforter, that he may abide with you for ever: e<g ref="char:EOLhyphen"/>vent the Spirit of truth, whom the world cannot receive, because it seeth him not, neither knoweth him,</hi> &amp;c. ver. 21. <hi>He that hath my Commandments and keepeth them, he it is that loveth me; and he that loveth me, shall be loved of my Father, and I will love him, and will manifest my self unto him.</hi> ver. 23. <hi>Jesus an<g ref="char:EOLhyphen"/>swered,</hi> &amp;c. <hi>If a man love me, he will keep my words: and my Father will love him, and we will come unto him and make our abode with him; He that loveth me not, keepeth not my say<g ref="char:EOLhyphen"/>ings: and the word which you hear is not mine, but the Fathers which sent me.</hi>
+               </p>
+               <p>As also his Apostles viz. <hi>Jam.</hi> 2.8. where he saith, <hi>If ye keep the rayall Law according to the Scripture,</hi> viz. <hi>Thou shalt love thy Neighbour as thy self, thou shalt do well,</hi> &amp;c. <hi>for whosoever shall keep the whole Law, and yet offend in one point, he is guilty of all: for he that said, Do not commit adultery said also, Do not
+<pb n="11" facs="tcp:171842:7"/>kill,</hi> and so consequently of all the rest; so that he that doth not commit adultery, yet if he either kill, or violate any other of the com<g ref="char:EOLhyphen"/>mands, he is guilty of the breach of the Law, and so become a trans<g ref="char:EOLhyphen"/>gressor thereof, <hi>ver.</hi> 11. and 1 <hi>Joh.</hi> 2.3, &amp;c. <hi>Hereby we know that we know him, if we keep his commandments: he that saith, he knoweth him, and keepeth not his commandments, he is a lyer, and the truth is not in him: but whosoever keepeth his word in him verily is the love of God perfected,</hi> &amp;c. <hi>Brethen, I write no new Commandment to you, but an old Commandment which ye had from the beginning, the old Commandment is the word which ye have heard from the beginning.</hi> and ch. 5.2, &amp;c. <hi>By this we know that we love the Children of God when we love God and keep his Commandments: for this is the love of God that we keep his commandments &amp; his Commandments are not grievous.</hi>
+               </p>
+            </div>
+            <div n="9" type="reason">
+               <head>
+                  <hi>Reason</hi> 9.</head>
+               <p>That Law by which sin is onely made known and distinguished, that Law ought onely to be observed by sinfull men.</p>
+               <p>But the royall Law of Jehovah, is the onely Law by which sin is made known and distinguished.</p>
+               <p>Therefore the royall Law of Jehovah, is the onely Law to be ob<g ref="char:EOLhyphen"/>served by sinfull men. But all the Nations of the World are sin<g ref="char:EOLhyphen"/>full. Therefore all Nations in generall, ought to be observant thereunto.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>Rom. 7.7. <hi>What shall we say then, is the Law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said Thou shalt not covet,</hi> and so con<g ref="char:EOLhyphen"/>sequently of all other sins; yea it is clear, that albeit the Gentiles are said to sin without Law, (<hi>viz.</hi> in tables of Stone as had the Israelites) yet are they not therefore excusable before God, in that they had the same Law imprinted in their hearts by nature: (as aforesaid) for it appears that by the very dictates of nature, they knew God, albeit they did not worship him as God, <hi>viz. by keeping the royall law</hi> so written in their nature, <hi>neither were thankfull for such know<g ref="char:EOLhyphen"/>ledge,</hi> but contrary wise became vain in their imaginations, (<hi>viz.</hi> by fancying other Laws to themselves) <hi>their foolish hearts being darkened,</hi> and so <hi>professing themselves wise they became fools, changing the Image of the uncorruptible God, into an Image made like corruptible man:</hi> by which means they altered the whole course of Nature, both in relation to their duty toward God, and their Neighbour.</p>
+               <pb n="12" facs="tcp:171842:8"/>
+               <p> And hence sprang all corruption both in Church and State, being formed by the dictates of such corrupt reasonings, which hath ever since been predominant over the whole face of the Earth: (the Jews onely excepted, unto whom the Lord was pleased to renovate the same) for as they changed the Image of the incorruptible God, into the similitude of corruptible man; so did they likewise by his Laws, moulding them also anew in their like vain imaginations, and from hence hath also proceeded the rise of adoration of Images of men, <hi>(in stead of God)</hi> whether living or dead, by means whereof they vi<g ref="char:EOLhyphen"/>olated the first Table.</p>
+               <p>Again, having once framed God to be in the similitude of man, (as the Heathen and Papists do, &amp;c.) then were they easily drawn to entertain such Laws, as were composed by <hi>such their gods:</hi> and so consequently became subject unto them, <hi>in stead of God,</hi> as it is clear from 1 <hi>Sam.</hi> 8. where the people of Israel degenerated from their fore-Fathers, during the time they were governed by Judges, (which government, the Lord is said to raise up unto them) by desiring <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> to make them a King, to judge them <hi>like all the Nations:</hi> notwithstanding by so doing, they did clearly forsake God to be their King, <hi>ver.</hi> 7. and his Laws to be their Laws, <hi>setting up in stead thereof, the Statutes of</hi> Omri, as in <hi>Micah</hi> 6.16. yea the Lord tel<g ref="char:EOLhyphen"/>leth them in plain termes, that by so doing they had not onely forsaken him, but also taken upon them <hi>to serve other gods;</hi> where note, that whosoever digresseth from being obedient to the government of a Commonwealth by judges, and the aforesaid royall Law, are Ido<g ref="char:EOLhyphen"/>laters or false worshippers.</p>
+            </div>
+            <div n="10" type="reason">
+               <head>
+                  <hi>Reason</hi> 10.</head>
+               <p>That Law which is holy, just, good, and perfect, ought to be pra<g ref="char:EOLhyphen"/>ctised by all that desire to be made holy, just good, and perfect.</p>
+               <p>But the royall Law of Jehovah, is holy, good, just and perfect.</p>
+               <p>Therefore the royall Law of Jehovah ought to be practised by such persons.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>Psal. 19.7. <hi>The Law of the Lord is perfect, converting the soul: the Testimonies of the Lord are sure, making wise the sim<g ref="char:EOLhyphen"/>ple: the Statutes of the Lord are right, rejoycing the heart: the Commandments of the Lord are pure, enlightning the eyes: the fear of the Lord is clean enduring for ever: the Judgements of the Lord are true and righteous altogether: more to be desi<g ref="char:EOLhyphen"/>red then gold, yea then much fine gold: sweeter also then hony or
+<pb n="13" facs="tcp:171842:8"/>the hony combe; moreover by them is thy servant taught,</hi> &amp;c. and Rom. 7.12. <hi>wherefore the law is holy, just, and good.</hi>
+               </p>
+            </div>
+            <div n="11" type="reason">
+               <head>
+                  <hi>Reason</hi> 11.</head>
+               <p>That Law unto the keeping of which in the letter, is annexed all tem<g ref="char:EOLhyphen"/>porall blessings and also all spirituall blessings for keeping the spiritual or Gospel-part thereof, must needs be the most excellent Law in all the world.</p>
+               <p>But the royall Law of Jehovah is such a Law.</p>
+               <p>Therefore the royal law of Jehovah is the most excellent law in all the world.</p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>Levit. 26.3. <hi>If ye walke in my Statutes, and keep my Command<g ref="char:EOLhyphen"/>ments and do them, then will I give you rain in due season,</hi> &amp;c. to v. 14. and Deut. 28.1. <hi>And it shall come to pass if thou shalt he arken di<g ref="char:EOLhyphen"/>ligently unto the voice of the Lord thy God, to observe and do all his commands which I command thee this day, that the Lord thy God will set thee high above all nations of the earth, and all these blessings shall come upon thee and overtake thee if thou shalt hearken to the voice of the Lord thy God. Blessed shalt thou be in the city and blessed shalt thou be in the field; blessed shall be the fruit of thy body, and the fruit of thy ground and the fruit of thy cattell, the increase of thy kine and the flocks of thy sheep; blessed shall be thy basket &amp; thy store: blessed shalt thou be when thou comest in and blessed shalt thou be when thou goest out: the Lord shall caus thine enemies <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> that rise up against thee to be smitten before thy face; they shall come out against thee one way and fly before thee seven ways</hi> &amp;c. to v. 15. and Psal. 1.1, &amp;c. <hi>Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scorn<g ref="char:EOLhyphen"/>ful: but his delight is in the law of Lord, and in his law doth he medi<g ref="char:EOLhyphen"/>tate day and night.</hi> (where note, that such as do not meditate as aforesaid, are ungodly sinners, and scornfull) <hi>He shall be like a tree planted by the rivers of water that bringeth forth his fruit in his season his leaf al<g ref="char:EOLhyphen"/>so shall not wither, and look whatsoever he doth shall prosper.</hi> and Psa. 16.11. <hi>In keeping of them there is great reward.</hi> compared with v. 7.</p>
+               <p>Again in point of obedience to the spiritual part of the Law, <hi>viz. the Gospel</hi> Jesus Christ himself hath promised a blessing, Mat. 24.46. <hi>Bles<g ref="char:EOLhyphen"/>sed is the man who when his Lord cometh shall find so doing,</hi> and Joh. 13.17. <hi>If ye know these things, happy are ye if ye do them.</hi> and c. 25.34. <hi>Come ye blessed of my Father, and inherit the Kingdom prepared for you from the foundation of the world: for when I was an hungry you gave me meat.</hi> Prov. 4.18. <hi>The path of the just is, a shining light, that shineth more and more to the perfect day:</hi> and Dan. 12.3. <hi>They
+<pb n="14" facs="tcp:171842:9"/>that be wise shall shine as the brightness of the firmament,</hi> &amp;c. and Mat. 13.43. <hi>Then shall the righteous shine forth as the sun in the king<g ref="char:EOLhyphen"/>dom of their Father— He that hath ears to hear, let him hear.</hi>
+               </p>
+            </div>
+            <div n="12" type="reason">
+               <head>
+                  <hi>Reason</hi> 12.</head>
+               <p>
+                  <hi>In that Jesus Christ, who is to be the Judge of all both quick and dead,</hi> Act. 10.42.43. and 17.31. Rev. 7.5. and 19.12, &amp;c. did never own any other Laws but in all his discourses touching Law had ever recourse to the royall law, <hi>vid. Mat.</hi> 5.17.18, 19, 21, 27, 33, 38. as also in his communicaton with the young man, <hi>Mat.</hi> 19.16, <hi>&amp;c.</hi> yea, albeit they were at that time under the Law of the <hi>Romans.</hi>
+               </p>
+            </div>
+            <div type="proof">
+               <head>Proof.</head>
+               <p>From all which I shall draw this conclusion, That it is contrary to all sence or reason, that any Nation whatsoever should presume to take such arrogancy upon them as to make any other law to themselves then the aforesaid royal law, <hi>viz.</hi> whether by mutual consent or agreement among themselves, or by way of imitation, or by any long setled, or well approved of customes, which any other Nation whatsoever, either hath or doth practise, but contrary wise, that they should be strictly tied unto the letter of that grand law royall, so made by God himself, and that without the least addition or detraction, as aforesaid. And if all Nations, then certainly in a more especial manner, such Nations as own the Lord Jehovah for their Lord, God, King, Law-giver, Judge and Saviour, as this Commonwealth pretend to do.</p>
+               <p>And if the Law, then consequently the Statutues and Judgements appertaining thereunto, for it will unavoidably follow, that by how much the Statutes and Judgements are abated, by so much the said royall Law is made of less force or vigor, as also of less terror to the violaters thereof: and so consequently will be annihilated or destroyed, and the Law-maker himself, slighted and contemned, as not being wise enough to suit his own Laws with Statutes and Judgements: a thing to be abhorred in the very conception thereof, and consequently much more in the action.</p>
+               <p>And therefore my humble request is, That you will henceforth declare your selves such as own Jehovah to be your Lord, God, King, Law-giver, Judge, and Saviour, by magnifying his royall Law, and making it honourable in this Nation: which if performed by you, will doubtless not onely produce the blessings afore<g ref="char:EOLhyphen"/>mentioned upon this Nation, but will also be a means of the greatest likelihood to a preparation to the calling of the Jews; a thing carnestly desired by all the people of God. we receiving their Law, they our Gospel; we their <hi>Moses,</hi> they our Christ, as I have formerly hinted unto you in my <hi>first Addresses,</hi> which I de<g ref="char:EOLhyphen"/>sire you would once more peruse seriously, there being that contained therein, which, if vigorously prosecuted, will make this Commonwealth not onely the delight of the most High, but even the joy of the whole earth. Which the Lord in much mercy grant, for his sake who hath so dearly bought us, and hitherto pre<g ref="char:EOLhyphen"/>served us from the hands of his and our enemies, to the very end and purpose, that we might be obedient to his Commands.</p>
+               <p>
+                  <hi>Read and consider: and the Lord grant you understanding touching his minde and will therein, as also a readiness of will to perform the same.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
